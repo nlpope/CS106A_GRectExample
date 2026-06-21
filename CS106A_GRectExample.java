@@ -6,6 +6,8 @@
  * colors it red, and then displays it on the screen. The GRect
  * is 125 pixels wide by 60 pixels high, with its upper left
  * corner at the point (100,50).
+ * 
+ * testing updates from VM with this comment. Disregard.
  */
 
 import acm.program.*;
